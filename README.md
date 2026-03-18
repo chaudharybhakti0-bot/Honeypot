@@ -112,7 +112,4 @@ project/
 - Secure logging (hashing)  
 - Advanced detection techniques  
 
----
 
-## ⚠️ Note
-This project demonstrates multi-layer monitoring (application, service, and network level).
